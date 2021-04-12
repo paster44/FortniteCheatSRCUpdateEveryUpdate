@@ -1,5 +1,5 @@
-# Updated 
+# No longer supported and is not being updating currently  
 
-# SUPPORT
+# HELP
 bunyip24#9999
 
